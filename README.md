@@ -23,7 +23,7 @@ The menu as it’s presented to you is the interface. All the drinks listed on t
 Let’s say you want that gin martini delivered to your home. You call a delivery service and you order a martini that appears on the menu. When you order it, someone will tell the bartender your order, the bartender will make the martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (the menu).
 
 To relate this back to software, an API can help one application retrieve specific types of data from another. If the API doesn’t support certain types of data, it won’t be able to facilitate the retrieval of that “off-menu” data.
-[Image](https://media.sproutsocial.com/uploads/2015/04/API_defined3-02.png)
+![Image](https://media.sproutsocial.com/uploads/2015/04/API_defined3-02.png)
 
 #### Flask: 
 In this repo i created a flask application ([app.py](https://github.com/Josiah-Jovido/SQLite/blob/master/SQLite_studentdata/flask/app.py), [index.html](https://github.com/Josiah-Jovido/SQLite/blob/master/SQLite_studentdata/flask/templates/index.html)) using vscode, this was just a simple application that shows how to build basic API's. The buildt API was then connected to Postman. 
