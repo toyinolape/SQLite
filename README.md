@@ -26,4 +26,18 @@ To relate this back to software, an API can help one application retrieve specif
 ![Image](https://media.sproutsocial.com/uploads/2015/04/API_defined3-02.png)
 
 #### Flask: 
-In this repo i created a flask application ([app.py](https://github.com/Josiah-Jovido/SQLite/blob/master/SQLite_studentdata/flask/app.py), [index.html](https://github.com/Josiah-Jovido/SQLite/blob/master/SQLite_studentdata/flask/templates/index.html)) using vscode, this was just a simple application that shows how to build basic API's. The buildt API was then connected to Postman. 
+In this repo i created a flask application ([app.py](https://github.com/Josiah-Jovido/SQLite/blob/master/SQLite_studentdata/flask/app.py), [index.html](https://github.com/Josiah-Jovido/SQLite/blob/master/SQLite_studentdata/flask/templates/index.html)) using vscode, this was just a simple application that shows how to build basic API's. The built API was then connected to Postman.
+
+### Flappy App:
+From the profitability report released by the Finance department of xyz shipping company, it was observed that a lot of expenditure is being spent on safety equipments for passengers. 
+The management therefore wants a suitable cost cutting strategy to resolve this crisis and balance the financial sheet. A memo has been sent to the Data analysis department to resolve this problem using Machine Learning. The management needs a user web interface where one can easily predict the survival rate of passengers according to their Age, Sex, and Embarked status. We are required to use Data manipulation, Machine learning, API and web development to tackle this task. 
+
+#### Methodology:
+* Build the model
+* Build API
+* Build web page 
+* Fit model into web page 
+* Test on Postman 
+* Get result from the web interface
+
+
